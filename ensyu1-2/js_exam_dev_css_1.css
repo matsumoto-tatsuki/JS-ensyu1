@@ -1,0 +1,16 @@
+.imgColor {
+    border: 1px solid rgb(69, 70, 62);
+    width: 200px; /* 幅を指定 */
+    height: 150px; /* 高さを指定 */
+}
+
+body {
+    border: 1px solid rgb(69, 70, 62);
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-right: 0;
+}
+
+div {
+    border: 1px solid rgb(69, 70, 62);
+}
